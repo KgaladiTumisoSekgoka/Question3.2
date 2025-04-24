@@ -19,3 +19,9 @@ Additional research is expected of the Team to create a repository on GitHub and
 
 ---
 Make sure to follow best practices when setting up the repository and structuring the issues log!
+
+###KGALADI TUMISO SEKGOKA       :      ST10262964     
+###CORNELIUS EROMOSELE             :      ST10302040   
+###KUZIVAKWASHE C KANYEMBA   :      ST10274003 
+###VIMBAINASHE M MHANGWA    :      ST10356323
+
